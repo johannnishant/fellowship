@@ -1,0 +1,17 @@
+fellowship 
+
+
+What is it?
+1.Cross-Platform App
+2.Church News/Announcements in a NewsFeed format
+3.Prayer Requests Spaces
+4.Public Chat/Messaging 
+
+
+Goals:
+1.Make it Generic and Open-Source so that other Churches can adapt it easily 
+2.Focus on good architecture , clean code and maintainability(long-term)
+
+Deadline:
+1st November - Minimum Viable Product (Approach Lance/Kathy)
+1st December - Must be present in App Store / Play Store 
